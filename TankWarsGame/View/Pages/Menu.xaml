@@ -1,0 +1,54 @@
+﻿<Page x:Class="TankWarsGame.View.Windows.Menu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Tank Wars"
+      Height="800" Width="800"
+      Background="#1E1E1E">
+
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/View/Styles/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/menubg.jpg"
+                        Stretch="UniformToFill"
+                        AlignmentX="Center"
+                        AlignmentY="Center"/>
+        </Grid.Background>
+        <Label x:Name="MainLabel"
+               Style="{StaticResource TitleLabelStyle}"
+               Content="TANK WARS" Margin="0,104,0,607"/>
+
+
+        <Button x:Name="StartGame"
+                    Style="{StaticResource MenuButtonStyle}"
+                    Content="Почати гру"
+                    Click="startGame" Margin="0,294,0,446"/>
+        <Button x:Name="StatsGame"
+                    Style="{StaticResource MenuButtonStyle}"
+                    Content="Статистика"
+                    Click="statsGame" Margin="0,359,0,381"/>
+        <Button x:Name="ClearStatsGame"
+                    Style="{StaticResource MenuButtonStyle}"
+                    Content="Очистити статистику"
+                    Click="deleteStatsGame" Margin="0,424,0,316"/>
+        <Button x:Name="ExitGame"
+                    Style="{StaticResource MenuButtonStyle}"
+                    Content="Вийти з гри"
+                    Click="exitGame" Margin="0,489,0,251"/>
+        <Label Content="Ім'я:"
+        Foreground="{StaticResource TextColor}"
+        FontSize="18" Width="60" Margin="250,693,490,56"/>
+
+        <TextBox x:Name="PlayerNameTextBox"
+          Style="{StaticResource PlayerNameTextBoxStyle}"
+          FontFamily="Century"
+          FontSize="17" TextChanged="PlayerNameTextBox_TextChanged" Width="240" Margin="310,696,0,74" HorizontalAlignment="Left"/>
+    </Grid>
+</Page>

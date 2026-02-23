@@ -1,0 +1,60 @@
+﻿<Page x:Class="TankWarsGame.View.Pages.StatsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TankWarsGame.View.Pages"
+      mc:Ignorable="d" 
+      Height="800" Width="800"
+      Title="StatsPage"
+      Background="Black">
+    
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/View/Styles/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    
+    <Grid>
+        <TextBlock Text="Історія ігор"
+                   Foreground="White"
+                   FontSize="36"
+                   HorizontalAlignment="Center"
+                   Margin="0,20,0,717"/>
+
+        <DataGrid x:Name="StatsDataGrid"
+                  Margin="113,88,113,206"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  RowBackground="LightGray"
+                  AlternatingRowBackground="Gainsboro"
+                  Foreground="Black" Background="Black" FontFamily="Microsoft Sans Serif" FontSize="14">
+            <DataGrid.Effect>
+                <DropShadowEffect/>
+            </DataGrid.Effect>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Гравець"
+                                    Binding="{Binding PlayerName}"
+                                    Width="150"/>
+
+                <DataGridTextColumn Header="Хвиль пройдено"
+                                    Binding="{Binding WavesComplete}"
+                                    Width="140"/>
+
+                <DataGridTextColumn Header="Фінальний рахунок"
+                                    Binding="{Binding FinalScore}"
+                                    Width="140"/>
+
+                <DataGridTextColumn Header="Вбито ворогів"
+                                    Binding="{Binding TotalKills}"
+                                    Width="140"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Content="Назад"
+                Click="BackButton_Click"
+               Style="{StaticResource MenuButtonStyle}" Margin="0,653,0,87"/>
+    </Grid>
+</Page>

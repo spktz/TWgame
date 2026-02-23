@@ -1,0 +1,467 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roman\\source\\repos\\TWGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|c:\\users\\roman\\source\\repos\\twgame\\tankwarsgame\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|solutionrelative:tankwarsgame\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\collisioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\collisioncheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\maprender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\maprender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\gamestats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\gamestatsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\gamestatsinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\gamestatsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\gamestatsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\statspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\statspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\roman\\source\\repos\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 747,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1016,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GamePage.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\GamePage.xaml",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\GamePage.xaml",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\GamePage.xaml",
+              "RelativeToolTip": "TankWarsGame\\View\\Pages\\GamePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T16:05:37.537Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TankWarsGame\\View\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T16:05:08.056Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\Menu.xaml",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\Menu.xaml",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\Menu.xaml",
+              "RelativeToolTip": "TankWarsGame\\View\\Pages\\Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-01T13:32:22.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\GamePage.xaml.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\GamePage.xaml.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\GamePage.xaml.cs",
+              "RelativeToolTip": "TankWarsGame\\View\\Pages\\GamePage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwEQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:53:01.153Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "TankWarsGame\\View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T09:53:08.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "TankWarsGame\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\ClassDiagram1.cd",
+              "RelativeToolTip": "TankWarsGame\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-06-04T19:20:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Styles\\Styles.xaml",
+              "RelativeToolTip": "TankWarsGame\\View\\Styles\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T12:21:37.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "stats.json",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json",
+              "RelativeDocumentMoniker": "..\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json",
+              "RelativeToolTip": "..\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-04T10:46:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\StatsPage.xaml.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\StatsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\StatsPage.xaml.cs",
+              "RelativeToolTip": "TankWarsGame\\View\\Pages\\StatsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:11:04.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\StatsPage.xaml",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\StatsPage.xaml",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\StatsPage.xaml",
+              "RelativeToolTip": "TankWarsGame\\View\\Pages\\StatsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T10:05:48.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameStats.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStats.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\GameStats.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStats.cs",
+              "RelativeToolTip": "TankWarsGame\\GameStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:20:58.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameStatsManager.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStatsManager.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\GameStatsManager.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStatsManager.cs",
+              "RelativeToolTip": "TankWarsGame\\GameStatsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:17:44.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameStatsInfo.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStatsInfo.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\GameStatsInfo.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStatsInfo.cs",
+              "RelativeToolTip": "TankWarsGame\\GameStatsInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:14:13.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Explosion.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\Explosion.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Explosion.cs",
+              "RelativeToolTip": "TankWarsGame\\Explosion.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwvz0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T15:07:07.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyController.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyController.cs",
+              "RelativeToolTip": "TankWarsGame\\EnemyController.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAcwNEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:28:52.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TankController.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\TankController.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\TankController.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\TankController.cs",
+              "RelativeToolTip": "TankWarsGame\\TankController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:33:59.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\BulletController.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\BulletController.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\BulletController.cs",
+              "RelativeToolTip": "TankWarsGame\\BulletController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:12:40.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Menu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\Menu.xaml.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\Menu.xaml.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\Menu.xaml.cs",
+              "RelativeToolTip": "TankWarsGame\\View\\Pages\\Menu.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:34:46.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Enemy.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\Enemy.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Enemy.cs",
+              "RelativeToolTip": "TankWarsGame\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T12:49:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemySpawn.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemySpawn.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\EnemySpawn.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemySpawn.cs",
+              "RelativeToolTip": "TankWarsGame\\EnemySpawn.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:44:45.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MapRender.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\MapRender.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\MapRender.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\MapRender.cs",
+              "RelativeToolTip": "TankWarsGame\\MapRender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:54:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyTank.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyTank.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\EnemyTank.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyTank.cs",
+              "RelativeToolTip": "TankWarsGame\\EnemyTank.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA2wCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:04:21.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollisionCheck.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\CollisionCheck.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\CollisionCheck.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\CollisionCheck.cs",
+              "RelativeToolTip": "TankWarsGame\\CollisionCheck.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwDAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:15:06.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Tank.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\Tank.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Tank.cs",
+              "RelativeToolTip": "TankWarsGame\\Tank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:46:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Wall.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\Wall.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Wall.cs",
+              "RelativeToolTip": "TankWarsGame\\Wall.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:19:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Bullet.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\Bullet.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Bullet.cs",
+              "RelativeToolTip": "TankWarsGame\\Bullet.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:09:53.391Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 560,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
