@@ -7,12 +7,32 @@
       "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|solutionrelative:tankwarsgame\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|c:\\users\\roman\\source\\repos\\twgame\\tankwarsgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|solutionrelative:tankwarsgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|c:\\users\\roman\\source\\repos\\twgame\\tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|solutionrelative:tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|c:\\users\\roman\\source\\repos\\twgame\\tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TWGame.csproj|solutionrelative:tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\tankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\enemytank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\view\\pages\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\view\\pages\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|solutionrelative:tankwarsgame\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C94D2A69-CE9F-470A-812A-D05D68A77639}|TankWarsGame\\TankWarsGame.csproj|C:\\Users\\roman\\source\\repos\\TWGame\\tankwarsgame\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,11 +135,11 @@
         },
         {
           "DockedWidth": 1016,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "GamePage.xaml",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\GamePage.xaml",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\GamePage.xaml",
@@ -139,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Windows\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Windows\\MainWindow.xaml.cs",
@@ -152,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Menu.xaml",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\Menu.xaml",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\Menu.xaml",
@@ -164,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "GamePage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\GamePage.xaml.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\GamePage.xaml.cs",
@@ -181,7 +193,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 3,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "TankWarsGame\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\ClassDiagram1.cd",
+              "RelativeToolTip": "TankWarsGame\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2026-02-23T16:06:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Bullet.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\Bullet.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Bullet.cs",
+              "RelativeToolTip": "TankWarsGame\\Bullet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:06:05.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyTank.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyTank.cs",
+              "RelativeDocumentMoniker": "TankWarsGame\\EnemyTank.cs",
+              "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyTank.cs",
+              "RelativeToolTip": "TankWarsGame\\EnemyTank.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T16:06:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Windows\\MainWindow.xaml",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Windows\\MainWindow.xaml",
@@ -192,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "ClassDiagram1.cd",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "TankWarsGame\\ClassDiagram1.cd",
@@ -203,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Styles\\Styles.xaml",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Styles\\Styles.xaml",
@@ -214,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "stats.json",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json",
               "RelativeDocumentMoniker": "..\\TankWarsGame\\TankWarsGame\\bin\\Debug\\stats.json",
@@ -225,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "StatsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\StatsPage.xaml.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\StatsPage.xaml.cs",
@@ -237,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "StatsPage.xaml",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\StatsPage.xaml",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\StatsPage.xaml",
@@ -248,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "GameStats.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStats.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\GameStats.cs",
@@ -260,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "GameStatsManager.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStatsManager.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\GameStatsManager.cs",
@@ -272,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "GameStatsInfo.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\GameStatsInfo.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\GameStatsInfo.cs",
@@ -284,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Explosion.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Explosion.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\Explosion.cs",
@@ -296,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyController.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\EnemyController.cs",
@@ -308,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "TankController.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\TankController.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\TankController.cs",
@@ -326,14 +376,14 @@
               "RelativeDocumentMoniker": "TankWarsGame\\BulletController.cs",
               "ToolTip": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\BulletController.cs",
               "RelativeToolTip": "TankWarsGame\\BulletController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAM4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T18:12:40.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Menu.xaml.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\View\\Pages\\Menu.xaml.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\View\\Pages\\Menu.xaml.cs",
@@ -345,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Enemy.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\Enemy.cs",
@@ -357,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "EnemySpawn.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemySpawn.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\EnemySpawn.cs",
@@ -369,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "MapRender.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\MapRender.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\MapRender.cs",
@@ -381,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "EnemyTank.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\EnemyTank.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\EnemyTank.cs",
@@ -393,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "CollisionCheck.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\CollisionCheck.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\CollisionCheck.cs",
@@ -405,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Tank.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Tank.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\Tank.cs",
@@ -417,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Wall.cs",
               "DocumentMoniker": "C:\\Users\\roman\\source\\repos\\TWGame\\TankWarsGame\\Wall.cs",
               "RelativeDocumentMoniker": "TankWarsGame\\Wall.cs",
