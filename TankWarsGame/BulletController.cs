@@ -38,7 +38,7 @@ namespace TankWarsGame
             CompositionTarget.Rendering += OnRendering;
         }
 
-        public void Fire(double x, double y, MoveDirection dir, Tank ownerPlayer)
+        private Image CreateBullet(double x, double y, MoveDirection dir)
         {
             Image img = new Image
             {
@@ -61,39 +61,22 @@ namespace TankWarsGame
             img.RenderTransform = new RotateTransform(angle);
             Canvas.SetLeft(img, x - img.Width / 2);
             Canvas.SetTop(img, y - img.Height / 2);
+            return img;
+        }
+        public void Fire(double x, double y, MoveDirection dir, Tank ownerPlayer)
+        {
+            Image img = CreateBullet(x, y, dir);
 
             _canvas.Children.Add(img);
-            Bullet bullet = new Bullet(x, y, dir, img, ownerPlayer);
-            _bullets.Add(bullet);
+            _bullets.Add(new Bullet(x, y, dir, img, ownerPlayer));
         }
 
         public void Fire(double x, double y, MoveDirection dir, EnemyTank ownerEnemy)
         {
-            Image img = new Image
-            {
-                Width = 8,
-                Height = 8,
-                Source = new BitmapImage(new Uri("/Assets/bullet.png", UriKind.Relative)),
-                RenderTransformOrigin = new System.Windows.Point(0.5, 0.5)
-            };
-
-            double angle;
-            switch (dir.D)
-            {
-                case Direction.Up: angle = 0; break;
-                case Direction.Right: angle = 90; break;
-                case Direction.Down: angle = 180; break;
-                case Direction.Left: angle = 270; break;
-                default: angle = 0; break;
-            }
-
-            img.RenderTransform = new RotateTransform(angle);
-            Canvas.SetLeft(img, x - img.Width / 2);
-            Canvas.SetTop(img, y - img.Height / 2);
+            Image img = CreateBullet(x, y, dir);
 
             _canvas.Children.Add(img);
-            Bullet bullet = new Bullet(x, y, dir, img, ownerEnemy);
-            _bullets.Add(bullet);
+            _bullets.Add(new Bullet(x, y, dir, img, ownerEnemy));
         }
 
         public void Pause() => CompositionTarget.Rendering -= OnRendering;
