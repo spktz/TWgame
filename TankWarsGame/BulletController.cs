@@ -25,6 +25,10 @@ namespace TankWarsGame
         private readonly Tank _playerModel;
         private readonly List<Enemy> _enemies;
 
+        private const double BulletSize = 8.0;
+        private const int HeavyEnemyPoints = 230;
+        private const int BasicEnemyPoints = 100;
+
 
 
         public BulletController(Canvas canvas, List<Wall> walls, Image playerImg, Tank playerModel, List<Enemy> enemies)
@@ -42,8 +46,8 @@ namespace TankWarsGame
         {
             Image img = new Image
             {
-                Width = 8,
-                Height = 8,
+                Width = BulletSize,
+                Height = BulletSize,
                 Source = new BitmapImage(new Uri("/Assets/bullet.png", UriKind.Relative)),
                 RenderTransformOrigin = new System.Windows.Point(0.5, 0.5)
             };
@@ -198,6 +202,9 @@ namespace TankWarsGame
                         enemy.Model.TakeDamage();
                         if (enemy.Model.Lives <= 0)
                         {
+                            int points = enemy.Model.Type == EnemyType.Heavy
+                                ? HeavyEnemyPoints
+                                : BasicEnemyPoints;
                             enemy.Img.Visibility = Visibility.Collapsed; //приховуємо спрайт
                             EnemyKilled.Invoke(100);
                         }
